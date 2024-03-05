@@ -1,0 +1,103 @@
+/*body of all pages*/
+body{
+    background-color: #849483;
+    margin: 0;
+}
+.mainHeader{
+    background-color: #d1cdc7;
+    padding-left: 100%;
+    padding-bottom: 370;
+    border-bottom-style: solid;
+    border-width: 10;
+    z-index: 2;
+}
+.archivo-black-regular {
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.setMain{
+    margin-top: 340;
+    padding-bottom: 100;
+}
+.moveMain{
+    margin-left: 100;
+    padding-top: 100;
+  }
+/*body of all pages*/
+
+
+
+
+/*set pic and nav list for all pages*/
+.liMove{
+    z-index: 2;
+    position: absolute;
+    margin-left: 74%;
+    margin-top: -175;
+}
+.designPic{
+    z-index: 1;
+    position: absolute;
+    width: 500;
+    padding-left: 70%;
+}
+.divMove{
+    margin-top: -370px;
+}
+.list{
+    margin: 0;
+    
+}
+/*set pic and nav list for all pages*/
+
+
+
+
+/*setTitle and main of the pages*/
+.titleName{
+    font-size: 175;
+    padding: 0;
+}
+.moveTitle{
+    margin-top: 200;
+}
+
+/*setTitle and main of the pages*/
+
+
+/* page1 */
+  /* .quoteArea{
+    z-index: 1;
+    padding: 50;
+
+    color: blue;
+} */
+.leftButton{
+    margin-left: 75;
+    margin-top: 500;
+    background-color: #d1cdc7 ;
+}
+.rightButton{
+    margin-left: 75;
+    background-color: #d1cdc7;
+}
+.myPics{
+    margin-left: 90;
+    margin-top: 30;
+    width: 600;
+    border-width: 10;
+    border-style: solid;
+}
+.quoteArea{
+    padding-top: 70;
+    padding-right: 25%;
+    margin: 25;
+}
+.moveProject{
+    margin: 250;
+}
+.setMain1{
+    margin-top: 550;
+    padding-bottom: 100;
+}
